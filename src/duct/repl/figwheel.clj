@@ -1,4 +1,4 @@
-(ns duct.repl.figwheel-main
+(ns duct.repl.figwheel
   (:require [integrant.repl.state :as state]
             [figwheel.main.api :as figwheel]))
 
