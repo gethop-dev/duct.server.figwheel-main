@@ -11,4 +11,6 @@
 
 (defmethod ig/suspend-key! :duct.server/figwheel-main [_ _])
 
-(defmethod ig/resume-key :duct.server/figwheel-main [key opts old-opts old-impl])
+(defmethod ig/resume-key :duct.server/figwheel-main [key opts old-opts old-impl]
+  (do (ig/halt-key! key old-impl)
+      (ig/init-key key opts)))
