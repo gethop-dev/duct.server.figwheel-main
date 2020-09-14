@@ -12,6 +12,14 @@
                  [integrant/repl "0.3.1"]]
   :resource-paths ["target"]
   :clean-targets ^{:protect false} ["target"]
+  :deploy-repositories [["snapshots" {:url "https://clojars.org/repo"
+                                      :username :env/clojars_username
+                                      :password :env/clojars_password
+                                      :sign-releases false}]
+                        ["releases"  {:url "https://clojars.org/repo"
+                                      :username :env/clojars_username
+                                      :password :env/clojars_password
+                                      :sign-releases false}]]
   :profiles
   {:dev          [:project/dev :profiles/dev]
    :profiles/dev {}
