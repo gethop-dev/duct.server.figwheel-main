@@ -1,4 +1,4 @@
-(defproject hydrogen/server.figwheel-main "0.1.1"
+(defproject hydrogen/server.figwheel-main "0.1.2-SNAPSHOT"
   :description "Integrant methods for running Figwheel Main"
   :url "https://github.com/magnetcoop/server.figwheel-main"
   :license {:name "Eclipse Public License"
