@@ -1,5 +1,3 @@
-# NOTE This is still a draft!
-
 # Hydrogen server.figwheel-main
 
 [Integrant][] methods for compiling and dynamically reloading
@@ -7,10 +5,16 @@ ClojureScript files in the [Duct][] framework using [Figwheel Main][].
 Figwheel is designed to be used during development. For compiling
 ClojureScript for a production release, use [compiler.cljs][].
 
+### NOTE!
+
+This library is heavily inspired by [Duct server.figwheel][]. In fact, we're going to make an effort to make it *canon*
+to Duct's creator vision of this entire framework.
+
 [integrant]:     https://github.com/weavejester/integrant
 [duct]:          https://github.com/duct-framework/duct
 [Figwheel Main]: https://figwheel.org/
 [compiler.cljs]: https://github.com/duct-framework/compiler.cljs
+[Duct server.figwheel]: https://github.com/duct-framework/server.figwheel
 
 ## Installation
 
