@@ -4,6 +4,6 @@
 
 (defn cljs-repl
   ([]
-   (cljs-repl (get-in state/system [:duct.server/figwheel-main :id])))
+   (cljs-repl (get-in state/system [:duct.server/figwheel-main :server])))
   ([build-id]
    (figwheel/cljs-repl build-id)))
