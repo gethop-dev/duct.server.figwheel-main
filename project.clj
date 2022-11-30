@@ -6,7 +6,6 @@
   :dependencies [[org.clojure/clojure "1.10.1"]
                  [org.clojure/clojurescript "1.10.773"]
                  [com.bhauman/figwheel-main "0.2.11"]
-                 [com.bhauman/rebel-readline-cljs "0.1.4"]
                  [cider/piggieback "0.5.1"]
                  [integrant "0.8.0"]
                  [integrant/repl "0.3.1"]]
