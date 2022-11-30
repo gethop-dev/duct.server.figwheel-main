@@ -1,8 +1,8 @@
-[![Build Status](https://github.com/gethop-dev/server.figwheel-main/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/gethop-dev/server.figwheel-main/actions/workflows/ci-cd.yml)
-[![Clojars Project](https://img.shields.io/clojars/v/dev.gethop/server.figwheel-main.svg)](https://clojars.org/dev.gethop/server.figwheel-main)
+[![Build Status](https://github.com/gethop-dev/duct.server.figwheel-main/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/gethop-dev/duct.server.figwheel-main/actions/workflows/ci-cd.yml)
+[![Clojars Project](https://img.shields.io/clojars/v/dev.gethop/duct.server.figwheel-main.svg)](https://clojars.org/dev.gethop/duct.server.figwheel-main)
 
 
-# dev.gethop/server.figwheel-main
+# dev.gethop/duct.server.figwheel-main
 
 [Integrant][] methods for compiling and dynamically reloading
 ClojureScript files in the [Duct][] framework using [Figwheel Main][].
@@ -24,7 +24,7 @@ to Duct's creator vision of this entire framework.
 
 To install, add the following to your project `:dependencies`:
 
-[![Clojars Project](https://clojars.org/dev.gethop/server.figwheel-main/latest-version.svg)](https://clojars.org/dev.gethop/server.figwheel-main)
+[![Clojars Project](https://clojars.org/dev.gethop/duct.server.figwheel-main/latest-version.svg)](https://clojars.org/dev.gethop/server.figwheel-main)
 
 ## Usage
 
