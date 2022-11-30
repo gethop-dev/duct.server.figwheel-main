@@ -1,4 +1,8 @@
-# Hydrogen server.figwheel-main
+[![Build Status](https://github.com/gethop-dev/server.figwheel-main/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/gethop-dev/server.figwheel-main/actions/workflows/ci-cd.yml)
+[![Clojars Project](https://img.shields.io/clojars/v/dev.gethop/server.figwheel-main.svg)](https://clojars.org/dev.gethop/server.figwheel-main)
+
+
+# dev.gethop/server.figwheel-main
 
 [Integrant][] methods for compiling and dynamically reloading
 ClojureScript files in the [Duct][] framework using [Figwheel Main][].
@@ -20,7 +24,7 @@ to Duct's creator vision of this entire framework.
 
 To install, add the following to your project `:dependencies`:
 
-    [hydrogen/server.figwheel-main "0.1.0"]
+[![Clojars Project](https://clojars.org/dev.gethop/server.figwheel-main/latest-version.svg)](https://clojars.org/dev.gethop/server.figwheel-main)
 
 ## Usage
 
@@ -46,7 +50,7 @@ See the [Figwheel Main documentation][] for more information.
 
 ## License
 
-Copyright © 2020 Magnet S Coop.
+Copyright (c) 2022 HOP Technologies
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.

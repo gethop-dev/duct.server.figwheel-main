@@ -1,6 +1,6 @@
-(defproject hydrogen/server.figwheel-main "0.1.3-SNAPSHOT"
+(defproject dev.gethop/server.figwheel-main "0.1.3-SNAPSHOT"
   :description "Integrant methods for running Figwheel Main"
-  :url "https://github.com/magnetcoop/server.figwheel-main"
+  :url "https://github.com/gethop-dev/server.figwheel-main"
   :license {:name "Eclipse Public License"
             :url "https://www.eclipse.org/org/documents/epl-2.0/EPL-2.0.txt"}
   :dependencies [[org.clojure/clojure "1.10.1"]
