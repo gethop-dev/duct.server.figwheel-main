@@ -7,6 +7,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/).
 
 No unreleased changes at this point.
 
+## [0.1.3]
+- Updated 'figwheel-main' to version `0.2.18`.
+- Removed `rebel-readline-cljs` dependency.
+
 ## [0.1.2]
 
 ### Fixed
