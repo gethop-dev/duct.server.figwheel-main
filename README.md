@@ -24,7 +24,7 @@ to Duct's creator vision of this entire framework.
 
 To install, add the following to your project `:dependencies`:
 
-[![Clojars Project](https://clojars.org/dev.gethop/duct.server.figwheel-main/latest-version.svg)](https://clojars.org/dev.gethop/server.figwheel-main)
+[![Clojars Project](https://clojars.org/dev.gethop/duct.server.figwheel-main/latest-version.svg)](https://clojars.org/dev.gethop/duct.server.figwheel-main)
 
 ## Usage
 
