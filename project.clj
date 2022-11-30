@@ -1,4 +1,4 @@
-(defproject dev.gethop/duct.server.figwheel-main "0.1.4"
+(defproject dev.gethop/duct.server.figwheel-main "0.1.5-SNAPSHOT"
   :description "Integrant methods for running Figwheel Main"
   :url "https://github.com/gethop-dev/duct.server.figwheel-main"
   :license {:name "Eclipse Public License"
