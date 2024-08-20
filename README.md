@@ -50,7 +50,7 @@ See the [Figwheel Main documentation][] for more information.
 
 ## License
 
-Copyright (c) 2022 Magnet S. Coop
+Copyright (c) 2024 Biotz, SL.
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
